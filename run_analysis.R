@@ -35,6 +35,7 @@ clean <- cbind(B, C, A)
 write.table(clean, "merged_data.txt")
 
 #5 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 uniqueSubjects = unique(B)[,1]
 numSubjects = length(unique(B)[,1])
 numActivities = length(activities[,1])
