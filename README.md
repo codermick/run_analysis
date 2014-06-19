@@ -11,8 +11,10 @@
 >
 -	Set the working directory for  the run_analysis.R script to the UCI HAR Dataset.
 -	Run the run_analysis.R script
+>
 <h2> How the run_analysis.R script works <h2>
-____________________________________________________________
+-----------------------------------------------
+>
 -	Sets the path to the UCI HAR Dataset.
 -	Loads and cleans the data to create the tidy data.
 -	Selects only the mean and std features.
