@@ -19,6 +19,8 @@ The following files are available for the train and test data. Their description
 >
 >
 <h2> How the Data is Presented <h2>
+-------------------------------------
+>
 >The training and testing data sets are merged to create a single data set called merged_data.txt
 >
 >The merged data set then was consolidated to only include data concerning the mean or standard deviation values in samsungtidy.txt. 
